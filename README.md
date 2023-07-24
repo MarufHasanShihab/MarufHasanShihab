@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm MARUF HASAN SHIHAB
 #### Web Developer
 
-Skills:  HTML / CSS / JS
+Skills:  HTML / CSS / Tailwind Css / JS
 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Github 
