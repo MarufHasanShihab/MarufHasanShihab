@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MARUF HASAN SHIHAB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftecnico-programador&psig=AOvVaw1Q1KtBOlSU1sEjuHREaYlr&ust=1692517137034000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjIuOeb6IADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ4OG5tb3U1aGFiMHE0Ym5vMnEydndxM2d0c3Bva2ZmbXV3dWdzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marufhasanshihab&label=Profile%20views&color=0e75b6&style=flat" alt="marufhasanshihab" /> </p>
 
