@@ -1,27 +1,34 @@
-### Hi there 👋, I'm MARUF HASAN SHIHAB
-#### Web Developer
-![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/365394394_250764521154036_9034744472860088661_n.png?stp=dst-png_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Qu-fhr17-IsAX8cQfG5&_nc_ht=scontent.fdac7-1.fna&oh=00_AfC22kJgHdmk-1bJpn2PNWRlrMW1xAzXG2E6pWNig7gAEw&oe=64CFA1CB)
+<h1 align="center">Hi 👋, I'm MARUF HASAN SHIHAB</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftecnico-programador&psig=AOvVaw1Q1KtBOlSU1sEjuHREaYlr&ust=1692517137034000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjIuOeb6IADFQAAAAAdAAAAABAE">
 
-Skills:  HTML / CSS / Tailwind Css / Js
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marufhasanshihab&label=Profile%20views&color=0e75b6&style=flat" alt="marufhasanshihab" /> </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning **Javascript**
 
+- 👯 I’m looking to collaborate on [Github](https://github.com/MarufHasanShihab)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarufHasanShihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maruf.hasan.shihab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maruf.hasan.shihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/maruf.hasan.shihab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/maruf.hasan.shihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/maruf.hasan.shihab)  
+- 💬 Ask me about **Web Development**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **marufhasanshihab2006@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarufHasanShihab)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **I am funny 🤗**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarufHasanShihab)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/maruf-hasan-shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf-hasan-shihab" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100086614705676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100086614705676" height="30" width="40" /></a>
+<a href="https://instagram.com/maruf.hasan.shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maruf.hasan.shihab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/maruf.hasan.shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maruf.hasan.shihab" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarufHasanShihab&show_icons=true&count_private=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarufHasanShihab)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufhasanshihab&show_icons=true&locale=en&layout=compact" alt="marufhasanshihab" /></p>
 
-![Profile views](https://gpvc.arturio.dev/MarufHasanShihab)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marufhasanshihab&show_icons=true&locale=en" alt="marufhasanshihab" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marufhasanshihab&" alt="marufhasanshihab" /></p>
+
