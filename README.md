@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maruf Hasan Shihab</h1>
-<h3 align="center">A passionate Frontend focused Web Application Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Web Application Developer from Bangladesh</h3>
 👯 I’m looking to collaborate on Github<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Web Development<br>👨‍💻 All of my projects are available at https://github.com/MarufHasanShihab<br>📫 How to reach me devmarufhasan@gmail.com
 
 
